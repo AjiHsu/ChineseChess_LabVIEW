@@ -6,5 +6,7 @@
   * generateMove for dKing
     * dKing for every move
     * dKing -> this move must eliminate this situation
-  * move (check movable / dKing / isKingToKing)
-    * check if movable and move
+  * movable (check movable / dKing / isKingToKing)
+    * use generateMove / check target group -> check if movable
+  * move
+    * about front-end operation
